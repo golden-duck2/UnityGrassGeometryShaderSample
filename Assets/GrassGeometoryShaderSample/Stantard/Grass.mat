@@ -63,7 +63,7 @@ Material:
     - _BendRotationRandom: 0.2
     - _BladeCurve: 2
     - _BladeForward: 0.38
-    - _BladeHeight: 1
+    - _BladeHeight: 0.5
     - _BladeHeightRandom: 0.3
     - _BladeRandomAmount: 0.5
     - _BladeSegments: 3
@@ -85,7 +85,7 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _TessellationUniform: 1
+    - _TessellationUniform: 5
     - _TranslucentGain: 0.5
     - _UVSec: 0
     - _WindScale: 1
