@@ -1,6 +1,6 @@
 # UnityGrassGeometryShaderSample
 
-製作環境　：　Shader Graph  
+製作環境　：　ShaderLab  
 概要　：  
 こちらのサイトを参考にしたジオメトリシェーダーを使用したグラスサンプル  
 https://roystan.net/articles/grass-shader.html  
